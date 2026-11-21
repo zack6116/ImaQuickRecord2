@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">极速录音助手</string>
+    <string name="record">开始录音</string>
+    <string name="stop">停止并上传</string>
+    <string name="ready">准备就绪</string>
+    <string name="recording">录音中</string>
+    <string name="uploading">上传中</string>
+    <string name="upload_done">已上传到 ima</string>
+    <string name="upload_failed">上传失败</string>
+    <string name="saved_credentials">已保存</string>
+    <string name="client_id">Client ID</string>
+    <string name="api_key">API Key</string>
+    <string name="kb_id">Knowledge Base ID</string>
+    <string name="save">保存</string>
+    <string name="quick_start_title">快速录音</string>
+    <string name="quick_start_body">下拉控制中心，点击「开始录音」磁贴即可录音；停止后自动上传。</string>
+</resources>
